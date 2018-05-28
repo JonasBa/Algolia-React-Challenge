@@ -19,5 +19,6 @@ npm start
 
 ## Suggestions for improvement
 - [ ] I think it would be better to use the `connect()` function from Redux or React Refetch for updating the states but I have not yet figured out how to use it
+- [ ] When clicking on "Show More", only ask Algolia for the new restaurants that we need instead of asking the ones we already have + new ones
 - [ ] Add as-you-type autocomplete suggestions
 - [ ] Highlight results to demonstrate why a result matched the query
